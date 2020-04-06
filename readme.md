@@ -49,3 +49,8 @@ Execute os comandos:
 `` $ php artisan serve  ``
 
 No navegador, acesse o endereço http://127.0.0.1:8000/ para abrir o sistema, ou conforme suas configurações locais.
+
+
+Links para execução em:
+
+``  routes/api.php  ``
